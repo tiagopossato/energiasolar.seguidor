@@ -1,0 +1,1 @@
+Placa de controle de seguidor solar com dois eixos
