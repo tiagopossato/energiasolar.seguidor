@@ -5,3 +5,6 @@
 *.EDF
 *.log
 *.sts
+*.GBR
+*.IPC
+*.TXT
